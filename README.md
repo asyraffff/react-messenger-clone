@@ -1,6 +1,6 @@
 # **Build a Facebook Messenger Clone using React JS and Firebase** ✔
 
-!(video)(https://www.awesomescreenshot.com/video/475381?key=3e90224abadd0fc9ec2d1bcb9139b9d0)
+![video](https://www.awesomescreenshot.com/video/475381?key=3e90224abadd0fc9ec2d1bcb9139b9d0)
 
 
 ## **Front-end : React JS** ✔
