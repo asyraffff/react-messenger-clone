@@ -1,0 +1,86 @@
+.app {
+  text-align: center;
+}
+
+.app__logo {
+  margin-top: 30px !important;
+}
+
+.app__textLogin {
+  margin-top: 50px;
+  font-weight: 700;
+  font-size: 35px;
+}
+
+.app__loginInput {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  margin-right: 420px;
+  margin-left: 420px;
+}
+
+.app__loginInput .app__userInput {
+  margin: 20px;
+  outline: none;
+}
+
+.app__loginInput button {
+  height: 30px;
+  background-color: #1871F1 !important;
+  border: 1px solid var(--primary-dark) !important;
+  color: white;
+  outline: none;
+  cursor: pointer;
+  border-radius: 10px;
+  transition: .4s;
+}
+
+.app__loginInput button:hover {
+  background-color: #2D3233 !important;
+  color: #2698FF;
+}
+
+.app__welcome {
+  margin-bottom: 60px;
+}
+
+.app__username {
+  color: #1AA3FF;
+  font-weight: 700;
+}
+
+
+.app__formContainer {
+  box-sizing: border-box;
+  position: fixed;
+  bottom: 0px;
+  padding: 20px;
+  width: 100%;
+}
+
+.app__form {
+  padding: 20px;
+  position: relative;
+  bottom: 0;
+  z-index: 1;
+  background-color: #e9e9eb;
+  width: 100%;
+  margin: 0px;
+  box-sizing: border-box;
+  box-shadow: 10px 10px 10px grey;
+  border-radius: 1em;
+}
+
+.app__formControl {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.app__input {
+  flex: 1 !important;
+}
+
+.app__iconButton {
+  flex: 0 !important;
+}

@@ -1,0 +1,36 @@
+.message {
+    padding: 5px;
+    margin: 10px;
+    width: fit-content;
+    min-width: 100px;
+}
+
+.message__user {
+    /* it will push this component to the right */
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+}
+
+.message__userCard {
+    background-color: #0b81ff !important;
+    color: white !important;
+    text-align: right;
+    border-radius: 10px !important;
+}
+
+.message__guestCard {
+    background-color: #2D3233 !important;
+    color: white !important;
+    text-align: left;
+    font-size: 14px;
+    border-radius: 10px !important;
+}
+
+.message__userMessage {
+    font-size: 20px !important;
+}
+
+.message__username {
+    color: #22A3FF;
+}
